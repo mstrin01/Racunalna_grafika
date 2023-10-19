@@ -30,7 +30,7 @@ int read_obj() {
     return 0;
 }
 
-int funkcija(std::string file)
+int lab2(std::string file)
 {
     //std::cout << file << std::endl;
 
